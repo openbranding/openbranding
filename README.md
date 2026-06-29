@@ -6,7 +6,10 @@
 
 ## Founder of Workpilot
 
-Building practical AI-powered software products for businesses.
+Software Architect • Laravel Developer • AI Engineer
+
+Building practical AI products for commerce, CRM,
+automation and merchant intelligence.
 
 ---
 
