@@ -4,12 +4,11 @@
 
 # Hi, I'm Abayomi Olusesan Karim👋
 
-## Founder of Workpilot
+## Founder & Software Architect · Workpilot Ltd
 
 Software Architect • Laravel Developer • AI Engineer
 
-Building practical AI products for commerce, CRM,
-automation and merchant intelligence.
+Building practical AI platforms for commerce, customer engagement, business automation, and merchant intelligence.
 
 ---
 
